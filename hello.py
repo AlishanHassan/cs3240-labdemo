@@ -6,3 +6,5 @@ from heyo import niceguy
 if __name__ == "__main__":
     greeting("hello")
     niceguy()
+    greeting("goodbye")
+
